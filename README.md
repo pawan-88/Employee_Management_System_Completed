@@ -1,10 +1,11 @@
 # Employee_Management_System_Completed
 
 # Features-
-   * Add a new employee with details such as name, age, position, etc.
+   * Add a new employee with details such as name, email, position, etc.
    * View a list of all employees.
    * Update employee information.
    * Delete an employee from the system.
+   * In this project we have provide user and admin login.
 
 # Technologies Used-
 
