@@ -16,7 +16,7 @@
 
 # Getting Started-
 
-   * Clone the repository: git clone https://github.com/your-username/employee-management-system.git
+   * Clone the repository: git clone https://github.com/pawan-88/Employee_Management_System_Completed/tree/main
    * Install the necessary dependencies.
    * Configure the database connection in the application properties file.
    * Run the application.
